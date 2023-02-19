@@ -1,1 +1,6 @@
-[Lab 3.pdf](https://github.com/MuAshrafAlii/System-Admin-Labs/files/10776543/Lab.3.pdf)
+![Lab 3-1](https://user-images.githubusercontent.com/83974243/219940414-666ed9b7-773c-41c4-9c9c-202d3821156f.jpg)
+![Lab 3-2](https://user-images.githubusercontent.com/83974243/219940419-1db0166b-9b07-4595-83bc-b1eaf86f518d.jpg)
+![Lab 3-3](https://user-images.githubusercontent.com/83974243/219940426-2dd7e6b2-82be-4f87-a678-769bc356e266.jpg)
+![Lab 3-4](https://user-images.githubusercontent.com/83974243/219940429-b101a247-007a-434c-a279-e2767d9bfd0a.jpg)
+![Lab 3-5](https://user-images.githubusercontent.com/83974243/219940431-d99403d3-c8a8-4611-a669-ec3ebabae765.jpg)
+![Lab 3-6](https://user-images.githubusercontent.com/83974243/219940436-96ecd642-896b-4aee-922a-1bdc55612a72.jpg)
